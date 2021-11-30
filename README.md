@@ -1,7 +1,7 @@
 # READE.md
 Welcome to reed's Org
 ======
-background（背景介绍）
+background
 ------
 This document will introduce you to reed's background and interesting experiences, in part to help you quickly understand who Reed is, and in part to help you quickly become friends with Reed. If you're interested in her, keep reading.
 
@@ -15,7 +15,7 @@ This document will introduce you to reed's background and interesting experience
 
 #Label
 ------
-|标签1|标签2|标签3|
+|label1|label2|label3|
 |:---|:---|:---|
 |Optimistic|Sensibility|Brave|
 
@@ -33,13 +33,13 @@ You know, She owns a very cute cat!! If you're looking to get a cat or have any 
 
 #Experience
 ------
-reed有一个双胞胎哥哥，看，这就是她和我哥哥小时候的样子。哈哈
+Reed has a twin brother, and look, this is what she and my brother looked like when they were little. Ha ha
 <br>![brother](https://github.com/gtb-2022-fan-yan/READE.md/blob/main/brother.jpg)
-<br>她非常的幸运，有一个她很喜欢的男朋友，他叫士涵，非常的宠reed，他们在一起已经三年了！这是他们的照片
+<br>She is very lucky to have a boyfriend she really likes. His name is Shihan, and he is very pet Reed. They have been together for three years! This is a picture of them.
 <br>![him](https://github.com/gtb-2022-fan-yan/READE.md/blob/main/him.jpg)
-<br>虽然她平时是个很安静的人，但是她非常乐意交朋友，而且平时不忙的时候会玩手机游戏，例如王者荣耀，她可是'最强王者'呢！如果你也很厉害，加入到她的队伍里来吧！
+<br>Although she is usually a quiet person, she is very willing to make friends, and when she is not busy, she will play mobile phone games, such as King of Glory. She is the "best king"! If you're good, join her team!
 <br>![game](https://github.com/gtb-2022-fan-yan/READE.md/blob/main/game.jpg)
 
 #Quotes
 ------
-满怀希望就会所向披靡。
+Hope makes the world go round.
