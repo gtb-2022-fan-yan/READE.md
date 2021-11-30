@@ -28,7 +28,7 @@ To give you a quick idea of who Reed is, here are three labels to get to know he
 <br>Reed is usually a private person. She likes listening to music when she is alone. She likes Jay's songs most, but she is tone-deaf and can't sing. She has many hobbies, such as drawing, swimming and running. If you also these hobbies, together with her about it ~
 
 You know, She owns a very cute cat!! If you're looking to get a cat or have any questions, she'll be more than happy to answer them. Look! This is his picture.his name is ali.
-<br>![cat](https://github.com/gtb-2022-fan-yan/READE.md/blob/main/me.jpg)
+<br>![cat](https://github.com/gtb-2022-fan-yan/READE.md/blob/main/cat.jpg)
 
 #Experience
 ------
