@@ -10,7 +10,6 @@ This document will introduce you to reed's background and interesting experience
 * Label
 * Ordinary
 * Experience
-* Expectation
 * Quotes
 
 #Label
