@@ -21,7 +21,7 @@ This document will introduce you to reed's background and interesting experience
 
 To give you a quick idea of who Reed is, here are three labels to get to know her.<br>She is a girl born in 1995. She can face difficulties with optimism and deal with them rationally. But life does not lack of sensibility, though she is afraid, but to challenge to brave to face.Obviously, to give you a quick overview of Reed, here are three labels that summarize the person.
 <br>Here is a photo give you a first impression. This is her usual appearance.
-<br>http://github.com/reedfy/gtb-2022-fan-yan/raw/分支名/存放图片的文件夹/文件夹里的图片名字
+<br>http://github.com/reedfy/gtb-2022-fan-yan/me.jpg
 
 #Ordinary
 -----
